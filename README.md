@@ -5,7 +5,7 @@ A Master's student focusing on **Embodied Intelligence**, **Humanoid Robot Navig
 🚀 Master Student at **Southern University of Science and Technology (SUSTech)**
 🎓 Dual B.Eng. in Computer Science(OUC) & Robotics Engineering(HWU) | Former Research Intern at Heriot-Watt University.
 
-🔗 [Personal Website (Coming Soon)](#) · [LinkedIn](#) · [Email](yuanhaozheng72@gmail.com)
+🔗 [Personal Website (Coming Soon)](#) · [LinkedIn](#) · [Email](#yuanhaozheng72@gmail.com)
 
 ---
 
