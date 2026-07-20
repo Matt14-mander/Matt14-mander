@@ -34,13 +34,5 @@ A Master's student focusing on **Embodied Intelligence**, **Humanoid Robot Navig
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true" alt="Yuanhao's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="180px" />
-</p>
-
----
 
 ⚡ *“The best way to predict the future is to implement it.”*
